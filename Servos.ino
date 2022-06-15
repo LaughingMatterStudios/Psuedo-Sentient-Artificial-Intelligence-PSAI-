@@ -4,7 +4,16 @@ Adafruit Arduino - Lesson 14. Sweep
 
 #include <Servo.h> 
 
-int servoPin = 9;
+int servoPin = 1
+int servoPin = 2
+int servoPin = 3
+int servoPin = 4
+int servoPin = 5
+int servoPin = 6
+int servoPin = 7
+int servoPin = 8
+int servoPin = 9
+int servoPin = 10;
  
 Servo servo;  
  
