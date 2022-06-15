@@ -17,7 +17,7 @@ Action = random.randint()
 
 Start loop here (if we need to start a loop)
 
-print(action) (I don't know if I'm doing this right. It's my first time writing Python lol
+print(Action) (I don't know if I'm doing this right. It's my first time writing Python lol
 random integer rolled for Walk action. If your robot has wheels, you'll be instructed to change "walk" to "Rol". That, Or we'll just copy the main file and instruct users which to use.
 
 If Action == 1
