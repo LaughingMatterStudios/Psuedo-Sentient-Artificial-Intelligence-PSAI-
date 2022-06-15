@@ -1,5 +1,7 @@
 Add a virtual assistant to your robot.
 Install each of the libraries below. Alternatively, run this file with "./" from a terminal.
+NOTE: I'm basing this off of the tutorial from https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/.
+I will likely heavily modify this in the future.
 
 pip install pyttsx3
 pip install SpeechRecognition
