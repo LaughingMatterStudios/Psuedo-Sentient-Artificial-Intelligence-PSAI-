@@ -5,6 +5,7 @@
 
 #Step 1: Sensory Setup
 import Sensors.py
+import Servos.py
 
 def main():
   
