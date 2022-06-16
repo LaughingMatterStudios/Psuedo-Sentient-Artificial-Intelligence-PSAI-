@@ -75,7 +75,7 @@ class Config:
     # LEG_R_ANKLE_START_POS = 50
 
     # RGB NeoPixels
-    pin d12
+    pixel_pin = board.D12
     LED_COUNT = 12
 
     # HotWord (uses Snowboy.ai)
